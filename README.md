@@ -1,14 +1,12 @@
-- 👋 Hi, I’m Aftab Miraj Swachchha
-- 👀 I’m a frontend web designer based in Dhaka.
-- 🌱 I’m also an undergrad CS student. 
-- 💞️ I’m Enthusiastic and self-motivated web designer who is seeking an entry level opportunity.
-- 📫 How to reach me ...
+### Hi there 👋, I'm Aftab Miraj Swachchha
+I am a frontend web designer based in Dhaka,. I am also an undergrad CS student. Enthusiastic and self-motivated web designer who is seeking an entry level opportunity in an esteemed organization where i can utilize my skills and enhance learning in the field of work . Eager to assist in building the best websites for business clients and delivering unforgettable customer experience. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swachchhakh)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / JS / HTML / CSS/ WordPress / Figma 
+
+- 🔭 I’m currently working on https://fantasiafurniture.com.au/ 
+- 🌱 I’m currently learning Node JS 
+- 📫 How to reach me: swachchha.kh@gmail.com 
 
 
 
-<!---
-swachchhakh/swachchhakh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
