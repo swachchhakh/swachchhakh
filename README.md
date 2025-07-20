@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Aftab Miraj Swachchha
-I am a Data Analyst and Software Developer based in Sydney,. I am also an undergrad CS student. Enthusiastic and self-motivated web designer who is seeking an entry level opportunity in an esteemed organization where i can utilize my skills and enhance learning in the field of work . Eager to assist in building the best websites for business clients and delivering unforgettable customer experience. 
+I am a Data Analyst and Software Developer based in Sydney. I am a recent Master of Information Technology graduate with a background in Computer Science and Engineering. I’m passionate
+about building impactful software and data-driven solutions, with hands-on experience in Python, TypeScript, React Native, and SQL. I have developed mobile apps, designed ETL pipelines, and contributed to an agro-based eCommerce platform that connected farmers with vendors nationwide. I thrive in fast-paced, cross-functional teams and bring strong problem-solving, communication, and
+collaboration skills. My goal is to grow as a full-stack developer and data analyst, solving scalable, real-world challenges.
 
 Skills: REACT / JS / Python / AWS
 
 - 🔭 I’m currently working on https://fantasiafurniture.com.au/ 
-- 🌱 I’m currently learning Node JS 
 - 📫 How to reach me: saftabmiraj@gmail.com
 
 
